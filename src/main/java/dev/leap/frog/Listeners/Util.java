@@ -6,5 +6,6 @@ import dev.leap.frog.Utils.MessageManager;
 public interface Util {
 
     MessageManager messageutil = new MessageManager();
+    LeapFrog leapfrog = new LeapFrog();
 
 }

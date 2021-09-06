@@ -109,6 +109,16 @@
             <version>${kotlin.version}</version>
             <scope>test</scope>
         </dependency>
+
+
+
+
+
+        <dependency>
+            <groupId>club.minnced</groupId>
+            <artifactId>discord-webhooks</artifactId>
+            <version>0.5.6</version>
+        </dependency>
     </dependencies>
 
 </project>
